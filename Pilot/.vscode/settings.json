@@ -1,0 +1,7 @@
+{
+  "platformio-ide.useBuiltinPIOCore": true,
+  "editor.formatOnSave": true,
+  "files.associations": {
+    "*.ino": "cpp"
+  }
+}
